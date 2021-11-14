@@ -1,4 +1,4 @@
-# <img width="488" alt="UFO_Title" src="https://user-images.githubusercontent.com/88467263/141687384-a445c622-e5b1-41ca-9ed9-350cb130b452.PNG">
+# <img width="750" alt="UFO_Title" src="https://user-images.githubusercontent.com/88467263/141687384-a445c622-e5b1-41ca-9ed9-350cb130b452.PNG">
 
 
 ## Overview of Project:
