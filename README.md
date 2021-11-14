@@ -8,10 +8,22 @@ The goal of this project was to build a dynamic webpage that filters results bas
 I have been tasked to work with Dana a data journalist who is writing about her hometown McMinnville, Oregon. Dana is excited to write about her hometown but for a unique reason. McMinnville is famous for UFO sightings and has festival held annualy by UFO fans. For this task Dana has provided a Javascript  file that provides sighting information.Our goal is to create an interactive webpage that allows readers to parse the data around UFO sightings. We will store the data in our webpage in a table but to make it more user friendly we will use Javascript to allow the data to be filtered based on the user prefrences. The webpage will allow users to view the data (HTML) and a dynamic table that will present it (JavaScript).
 
 
+________________________________________
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+## Results: 
+______________________________________________
 
+This new site allows users to seach for UFO sighting data based on multiple criteria below.
 
+* Date
+* City
+* State
+* Country
+* Shape
+* Duration
+* Comments
+
+Once data is entered the site will filter and display results refined to user prefrences.
 
 ### Five list elements for filtering in the index.
 ______________________________________________________________
