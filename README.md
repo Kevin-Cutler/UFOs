@@ -1,4 +1,5 @@
-# UFOs
+# <img width="488" alt="UFO_Title" src="https://user-images.githubusercontent.com/88467263/141687384-a445c622-e5b1-41ca-9ed9-350cb130b452.PNG">
+
 
 ## Overview of Project:
 __________________________________
@@ -28,11 +29,14 @@ Once data is entered the site will filter and display results refined to user pr
 ### Five list elements for filtering in the index.
 ______________________________________________________________
 
+<img width="444" alt="five_list_elements_for_filtering" src="https://user-images.githubusercontent.com/88467263/141687341-d4b12825-d458-4618-8a94-e9575d7ff650.PNG">
 
 
 
 ### Modified event listener to detect changes to each filter in the app.js file.
 ____________________________________________________________________
+
+<img width="441" alt="Event_listener" src="https://user-images.githubusercontent.com/88467263/141687366-d46cc58a-18fe-4f45-8bad-56f5abca7bc0.PNG">
 
 
 
@@ -40,17 +44,20 @@ ____________________________________________________________________
 ### The updateFilters() function saves the element, value, and the id of the filter that was changed.
 __________________________________________________________________________
 
+<img width="490" alt="Update_filters" src="https://user-images.githubusercontent.com/88467263/141687357-328d3bec-2268-4cb2-9623-b5e5bb092429.PNG">
 
 
 ### FilterTable() function loops through all of the filters and keeps any data that matches the filter values.
 __________________________________________________________________________________
 
+<img width="461" alt="Filter_table_loop" src="https://user-images.githubusercontent.com/88467263/141687373-a5e98d0e-db57-4cc3-8c82-bce7b510bccf.PNG">
 
 
 
 ### The webpage filters the table correctly based on user input.
 __________________________________________________________________
 
+<img width="942" alt="Filtered_webpage" src="https://user-images.githubusercontent.com/88467263/141687379-718e2adb-a3cd-4d22-9cb8-7579128373f9.PNG">
 
 
 
