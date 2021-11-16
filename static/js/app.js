@@ -45,7 +45,7 @@ filters[filteridvariable] = elementvalue;
 
 } else {
 
-filters.filteridvariable.deleteobject();
+delete filters[filteridvariable];
 
 }
   
